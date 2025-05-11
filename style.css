@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    font-weight: normal;
+    margin: 0%;
+}
+h3 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 0%;
+    word-spacing: 5px;
+}
+div {
+    color: white;
+    display: table-cell;
+    width: 250px;
+    margin: 25px;
+    padding-left: 255px;
+    align-content: center;
+    word-spacing: 6px;
+    line-height: 30px;
+}
+
+
+img {
+    width: 750px;
+    height: 450px;
+    margin-left: 230px;
+    margin-right: 100px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid white;
+
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+}
+a {
+    color: white;
+}
